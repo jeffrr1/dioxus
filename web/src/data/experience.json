@@ -1,0 +1,24 @@
+[
+  {
+    "company": "TechFlow Solutions",
+    "role": "Full-Stack AI Developer",
+    "dateRange": "2024 — present",
+    "location": "Remote",
+    "achievements": [
+      "Built and deployed AI-powered code review tool using React, Go, and PostgreSQL, reducing code review time by 40%",
+      "Architected microservices migration from monolith, improving deployment frequency from weekly to daily",
+      "Led team of 3 developers in implementing CI/CD pipeline with GitHub Actions"
+    ]
+  },
+  {
+    "company": "DataCore Systems",
+    "role": "Backend Developer",
+    "dateRange": "2022 — 2024",
+    "location": "Jakarta, Indonesia",
+    "achievements": [
+      "Developed RESTful APIs in Laravel serving 10K+ daily requests with 99.9% uptime",
+      "Migrated legacy MySQL queries to Redis caching layer, reducing response time by 60%",
+      "Integrated third-party payment gateways across APAC regions"
+    ]
+  }
+]

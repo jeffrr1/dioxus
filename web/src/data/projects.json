@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "project-alpha",
+    "title": "Project Alpha",
+    "description": "A real-time dashboard for monitoring distributed system health across multiple data centers.",
+    "longDescription": "Built a comprehensive monitoring dashboard that aggregates metrics from 50+ microservices across three data centers. Features real-time alerting, historical trend analysis, and automated incident response workflows. Reduced mean-time-to-detection by 60%.",
+    "techStack": ["React", "Go", "PostgreSQL", "Docker", "Prometheus"],
+    "role": "Full-Stack Developer",
+    "thumbnail": "/images/project-alpha-thumb.jpg",
+    "screenshots": ["/images/project-alpha-1.jpg", "/images/project-alpha-2.jpg"],
+    "liveDemo": "https://demo-alpha.example.com",
+    "sourceCode": "https://github.com/jeffrr1/project-alpha",
+    "featured": true
+  },
+  {
+    "slug": "project-beta",
+    "title": "Project Beta",
+    "description": "An enterprise resource planning system with modular architecture serving 500+ concurrent users.",
+    "longDescription": "Designed and developed a modular ERP platform handling inventory management, order processing, and financial reporting. Architected the plugin system that allowed third-party integrations without core modifications. Migrated legacy data from 3 disparate systems.",
+    "techStack": ["Laravel", "PHP", "MySQL", "Redis", "Vue.js"],
+    "role": "Backend Developer",
+    "thumbnail": "/images/project-beta-thumb.jpg",
+    "screenshots": ["/images/project-beta-1.jpg"],
+    "liveDemo": "https://demo-beta.example.com",
+    "sourceCode": "https://github.com/jeffrr1/project-beta",
+    "featured": true
+  },
+  {
+    "slug": "project-gamma",
+    "title": "Project Gamma",
+    "description": "Desktop application for industrial asset management with offline-first synchronization.",
+    "longDescription": "Developed a WPF desktop application for tracking and managing industrial equipment across multiple facility locations. Implemented offline-first architecture with SQLite local storage and background sync when connectivity is restored. Integrated with IoT sensor data for predictive maintenance alerts.",
+    "techStack": ["C#", "WPF", ".NET", "SQLite", "Azure IoT"],
+    "role": "Software Developer",
+    "thumbnail": "/images/project-gamma-thumb.jpg",
+    "screenshots": ["/images/project-gamma-1.jpg", "/images/project-gamma-2.jpg"],
+    "liveDemo": "",
+    "sourceCode": "https://github.com/jeffrr1/project-gamma",
+    "featured": false
+  }
+]
